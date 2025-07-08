@@ -1,0 +1,2 @@
+// Creates my_db database in your mongoDB server
+use my_db
