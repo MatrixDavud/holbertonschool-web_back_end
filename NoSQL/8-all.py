@@ -4,4 +4,4 @@
 
 def list_all(mongo_collection):
     """Return the list of documents."""
-    return list(db.mongo_collection.find())
+    return list(mongo_collection.find())
